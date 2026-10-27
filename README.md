@@ -53,7 +53,7 @@ Entry-level security jobs ask for hands-on experience, but most people never get
 
 - **All data is simulated.** IP addresses use reserved example ranges. Nothing touches a real network.
 - This is a training and demonstration tool, not a real security monitoring product.
-- The leaderboard is stored in your browser (`localStorage`), so it shows scores from your own device only.
+- The leaderboard is stored in your browser (`localStorage`), so it shows scores from your own device only. (If you download it in your own device.)
 
 ## Tech
 

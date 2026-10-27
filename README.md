@@ -1,4 +1,4 @@
-# SOC Shift - Can You Defend The Network?🛡️
+# SOC Shift Lite🛡️
 
 **Can you defend the network?** SOC Shift is a free, interactive game that puts you in the seat of a security analyst. Alerts arrive one at a time. Some are real attacks, some are harmless. Decide what to do before the clock runs out.
 
